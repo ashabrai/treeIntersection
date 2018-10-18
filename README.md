@@ -1,4 +1,4 @@
-# Repeated Word 
+# Repeated Word [![Build Status](https://travis-ci.com/ashabrai/treeIntersection.svg?branch=master)](https://travis-ci.com/ashabrai/treeIntersection)
 
 Find the common value in 2 binary trees
 ## Challenge
